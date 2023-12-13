@@ -5,3 +5,10 @@ NanoGenizer, a lab-scale microfluidic high pressure homogenizer, offers effecti
 NanoGenizer provides efficient solutions for various nanomaterials, including: liposomes, nano-emulsions, nano-crystals, micelles, lipid nanoparticles, cosmetic nano-encapsulation materials, nano-particle dispersion, graphene, carbon nanotube, and more. As more organizations recognize this, NanoGenizer is becoming an essential high pressure homogenizer for laboratories working on high-end nanomaterial preparation.
 
 ![NanoGenizer](https://www.genizer.com/c/high-pressure-homogenizer_0360)
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
