@@ -1,4 +1,4 @@
-##Liposome Extruder: What it is, How does it work, Advantages, Applications and Types
+## Liposome Extruder: What it is, How does it work, Advantages, Applications and Types
 Liposome Processing: Liposome Extruders
  
 Instrument: Genizer Liposome Extruders
@@ -14,29 +14,29 @@ Liposome extrusion technology is employing the structural and performance charac
  
 ![Schematic diagram depicting the liposome extrusion,Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/d841f5d269.png)
 Figure 2 Schematic diagram depicting the liposome extrusion
-###1. Common Types of Liposome Extruders
+### 1. Common Types of Liposome Extruders
 Liposome extruders can be classified into three categories: hand drivenliposome extruders, jacketed liposome extruders, and online liposome extruders. Each category is based on its different power sources.
-####1.1 Hand DrivenLiposome Extruders
+#### 1.1 Hand DrivenLiposome Extruders
 The hand driven liposome extruders are capable of processing the sample volume from 0.25mL to 2.5mL, which is suitable for mini sample volume applications during the experimental phase. It is operated by simply pushing the plunger manually. There are two types of hand driven extruders: extruders under ambient temperature, and extruders with jacketed option. The hand driven liposome extruders with cooling jacket are designed for those extrusion conditions to control the sample temperature.
 
 ![Hand Driven Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/5e4ccc44f9.jpg)
 Figure 3 Hand Driven Liposome Extruders
-####1.2 Jacketed Liposome Extruders
+#### 1.2 Jacketed Liposome Extruders
 The jacketed liposome extruders have a wide range of processing capacities, from sample volume 2mL to 3L depending on the models. It is suitable for lab scale and pilot scale applications. It is driven by compressed nitrogen cylinder. Most of the jacketed liposome extruders are designed with jacketed barrel to achieve the temperature control of the sample.
 
 ![Jacketed Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/48194917ee.png)
 Figure 4 Jacketed Liposome Extruders
-####1.3 Online Liposome Extruders
+#### 1.3 Online Liposome Extruders
 Online liposome extruders are available for the processing capacity from 2mL to 20L depending on the different models. These extruders are more suitable for pilot scale applications. It is powered by a high-pressure pump unit or other production equipment.
 
 ![Online Liposome Extruder, Image credit: Genizer LLC](https://www.genizer.com/u_file/2206/photo/42594085dd.jpg)
 Figure 5 Online Liposome Extruders
-####1.4 Multiple Liposome Extruders System
+#### 1.4 Multiple Liposome Extruders System
 The multiple liposome extruders system is able to process the volume from 1L to 200L. It features both the temperature and pressure sensors in the product line, and a control panel to control the production for liposomes.
 
 ![Multiple Liposome Extruders systems with liposome extruding control panel, Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/45eb7d3903.png)
 Figure 6 Multiple Liposome Extruders systems with liposome extruding control panel
-###2. Track-Etched Polycarbonate Extrusion Membranes
+### 2. Track-Etched Polycarbonate Extrusion Membranes
 The operations of liposome extruders have high requirements for the extrusion membranes. The nucleus track-etched polycarbonate membranes should have uniform distributions of filter pores. In an ideal membrane, all nano pores should be of the same size. Furthermore, the extrusion membrane with vertical pore distribution is more conducive to the preparation of liposome extrusion.
 
 ![Microscopic Representation for Track-Etched Polycarbonate Membranes，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/d1bc013dac.jpg)
