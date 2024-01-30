@@ -2,8 +2,10 @@
 **Liposome Processing: Liposome Extruders**
  
 **Instrument: Genizer Liposome Extruders**
-AKA: Exosomes Extruders, Artificial Cell Membrane Extruders; Liposomes Preparation devices by extrusion
-Advantages: Liposome extruders are mainly used for the liposome formulation and achieving uniform size distributions. It is an ideal instrument to generate nanoscale liposome formulations, and to prepare exosomes and artificial cell membranes. By utilizing the tracked-etched filter membranes, the liposome extruders are capable of capturing large particles, precipitation and achieving sterile filtration.
+
+**AKA: Exosomes Extruders, Artificial Cell Membrane Extruders; Liposomes Preparation devices by extrusion**
+
+**Advantages**: Liposome extruders are mainly used for the liposome formulation and achieving uniform size distributions. It is an ideal instrument to generate nanoscale liposome formulations, and to prepare exosomes and artificial cell membranes. By utilizing the tracked-etched filter membranes, the liposome extruders are capable of capturing large particles, precipitation and achieving sterile filtration.
 Application: Research and Development for the liposomal drug delivery system, vaccine, gene delivery, and cosmetics
 
 **Working Principles**: A liposome is a spherical-shaped vesicle composed of phospholipid bilayers. Phospholipid bilayers are critical components of cell membranes, with hydrophilic and hydrophobic properties. In an aqueous solution, the hydrophobic ends tend to bind to each other, and spontaneously form small sphericalliposomes. The liposome extruder is designed for the preparation of liposomes. It is easy to use, and has high precision particle size control ability with narrow distributions and satisfactory repeatability. So far it has been widely used in the preparations of complex injectable liposome products.
@@ -24,7 +26,7 @@ Liposome extruders can be classified into three categories: hand drivenliposome 
 #### 1.1 Hand DrivenLiposome Extruders
 The hand driven liposome extruders are capable of processing the sample volume from 0.25mL to 2.5mL, which is suitable for mini sample volume applications during the experimental phase. It is operated by simply pushing the plunger manually. There are two types of hand driven extruders: extruders under ambient temperature, and extruders with jacketed option. The hand driven liposome extruders with cooling jacket are designed for those extrusion conditions to control the sample temperature.
 
-![Hand Driven Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/5e4ccc44f9.jpg)
+[![Hand Driven Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/5e4ccc44f9.jpg)](https://www.genizer.com/c/liposome-extruder_0365)
 
 Figure 3 Hand Driven Liposome Extruders
 #### 1.2 Jacketed Liposome Extruders
