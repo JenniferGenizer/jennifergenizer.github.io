@@ -29,7 +29,7 @@ The hand driven liposome extruders are capable of processing the sample volume f
 [![Hand Driven Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/5e4ccc44f9.jpg)](https://www.genizer.com/c/liposome-extruder_0365)
 
 Figure 3 Hand Driven Liposome Extruders
-#### 1.2 Jacketed Liposome Extruders
+#### 1.2 [Jacketed Liposome Extruders](https://www.genizer.com/products/)
 The jacketed liposome extruders have a wide range of processing capacities, from sample volume 2mL to 3L depending on the models. It is suitable for lab scale and pilot scale applications. It is driven by compressed nitrogen cylinder. Most of the jacketed liposome extruders are designed with jacketed barrel to achieve the temperature control of the sample.
 
 ![Jacketed Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/48194917ee.png)
