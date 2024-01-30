@@ -35,7 +35,7 @@ The jacketed liposome extruders have a wide range of processing capacities, from
 ![Jacketed Liposome Extruders，Image credit: Genizer LLC](https://www.genizer.com/u_file/2208/photo/48194917ee.png)
 
 Figure 4 Jacketed Liposome Extruders
-#### 1.3 Online Liposome Extruders
+#### 1.3 [Online Liposome Extruders](https://www.genizer.com/online-liposome-extruder_p0004.html)
 Online liposome extruders are available for the processing capacity from 2mL to 20L depending on the different models. These extruders are more suitable for pilot scale applications. It is powered by a high-pressure pump unit or other production equipment.
 
 ![Online Liposome Extruder, Image credit: Genizer LLC](https://www.genizer.com/u_file/2206/photo/42594085dd.jpg)
