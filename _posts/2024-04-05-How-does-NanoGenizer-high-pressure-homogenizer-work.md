@@ -2,7 +2,7 @@
 
 ![Genizer High Pressure Homogenizer](https://www.genizer.com/u_file/2208/photo/5fba6527bb.jpg)
 
-NanoGenizer High-Pressure Homogenizer
+**NanoGenizer High-Pressure Homogenizer**
  
 The NanoGenizer is a laboratory scale high-pressure homogenizer. There are two segments of the NanoGenizer, the power unit and the core processing unit. The core processing unit is where homogenization occurs.
 
@@ -14,7 +14,7 @@ The inlet and outlet valve ensures your sample travels the correct direction thr
  
 The [Diamond Interaction Chamber](https://www.genizer.com/c/diamond-interaction-chamber_0118) is where homogenization occurs. The chamber can be either Z-shaped or Y-shaped. In the Y-shaped diamond interaction chamber, the sample splits into two streams. Where the two streams collide, forces like high shear and cavitation homogenize the sample. In the z-type chamber, instead of the sample colliding with itself, it collides with the wall of the chamber. After homogenization, the particles are smaller and more uniform and liquids that would normally be immiscible can be mixed.Diagram of the path of liquid Z-shaped and Y-shaped  interaction chambers
 
-Genizer's Diamond Interaction Chamber can come with a cooling option. Additionally, if you need more cooling properties, Genizer offers a real-time heat exchanger. This method of cooling is superior for thermally unstable samples.
+**Genizer**'s Diamond Interaction Chamber can come with a cooling option. Additionally, if you need more cooling properties, Genizer offers a real-time heat exchanger. This method of cooling is superior for thermally unstable samples.
 The NanoGenizer offers low minimum volume, low dead volume and temperature control options. Please click here for more information on the NanoGenizer.
 
 [![homogenizer interaction chamber](https://www.genizer.com/u_file/2208/photo/7a9bf1b8be.png)](https://www.genizer.com/c/high-pressure-homogenizer_0360)
