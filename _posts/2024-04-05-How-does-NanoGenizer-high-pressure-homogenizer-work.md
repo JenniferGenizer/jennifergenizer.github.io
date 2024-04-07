@@ -19,3 +19,9 @@ The NanoGenizer offers low minimum volume, low dead volume and temperature contr
 
 [![homogenizer interaction chamber](https://www.genizer.com/u_file/2208/photo/7a9bf1b8be.png)](https://www.genizer.com/c/high-pressure-homogenizer_0360)
 
+## Related Articles
+[Everything You Should Know About High Pressure Homogenizer](https://www.genizer.com/art/high-pressure-homogenizer-introduction_a0049.html)  
+[What is a liposome extruder? How does it work? And what's its classcification?](https://www.genizer.com/art/liposome-extruder_a0055.html)  
+[Liposome Processing: High Pressure Homogenizer or Liposome Extruder?](https://www.genizer.com/info/liposome-processing-high-pressure-homogenizer-or-liposome-extruder_i0042.html)  
+[Comparing High-Pressure Homogenization and Sonication Techniques](https://www.genizer.com/info/the-difference-of-high-pressure-homogenization-vs-sonication_i0046.html)  
+[Genizer LLC company introduction](https://www.genizer.com/)
