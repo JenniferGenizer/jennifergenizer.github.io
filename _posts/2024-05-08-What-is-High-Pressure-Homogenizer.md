@@ -155,10 +155,8 @@ With the development of the high thrust linear actuator system, high-thrust and 
 
 
 ## Related Articles
-[Everything You Should Know About High Pressure Homogenizer](http://simp.ly/p/djZlhj)  
-[Using NanoGenizer High Pressure Homogenizers for Nanomaterials](http://simp.ly/p/chLFfB)  
-[What is a liposome extruder? How does it work? And what's its classcification?](http://simp.ly/p/KY7G1m)  
-[Liposome Processing: High Pressure Homogenizer or Liposome Extruder?](http://simp.ly/p/nnDKvw)  
-[Comparing High-Pressure Homogenization and Sonication Techniques](http://simp.ly/p/DSSD91)  
-[A Guide to Selecting an Appropriate High-Pressure Homogenizer](http://simp.ly/p/70FVcV)  
-[Genizer LLC company introduction](https://app.simplenote.com/p/QVsH0q)
+## Related Articles
+[Everything You Should Know About High Pressure Homogenizer](https://www.genizer.com/art/high-pressure-homogenizer-introduction_a0049.html)  
+[What is a liposome extruder? How does it work? And what's its classcification?](https://www.genizer.com/art/liposome-extruder_a0055.html)  
+[NanoGenizer High Pressure Homogenizers for Nanomaterials and Cell Disruption](https://www.genizer.com/art/nanogenizer-lab-homogenizer-for-cell-disruption_a0054.html) 
+[How to choose a right high pressure homogenizer?](https://jennifergenizer.github.io/2024/04/27/How-to-choose-a-right-high-pressure-homogenizer.html)
