@@ -155,7 +155,6 @@ With the development of the high thrust linear actuator system, high-thrust and 
 
 
 ## Related Articles
-## Related Articles
 [Everything You Should Know About High Pressure Homogenizer](https://www.genizer.com/art/high-pressure-homogenizer-introduction_a0049.html)  
 [What is a liposome extruder? How does it work? And what's its classcification?](https://www.genizer.com/art/liposome-extruder_a0055.html)  
 [NanoGenizer High Pressure Homogenizers for Nanomaterials and Cell Disruption](https://www.genizer.com/art/nanogenizer-lab-homogenizer-for-cell-disruption_a0054.html) 
