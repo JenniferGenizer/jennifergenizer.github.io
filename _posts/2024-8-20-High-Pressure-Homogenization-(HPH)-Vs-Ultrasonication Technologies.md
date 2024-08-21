@@ -20,7 +20,7 @@ Multi-slot Y-type and Z-type microfluidic diamond interaction chambers
 
 Finally, HPH can be a gentler process than ultrasonication, particularly when processing delicate samples like pharmaceuticals or biologics. Ultrasonication generates heat and cavitation, which can damage sensitive compounds and reduce product quality. In contrast, HPH provides more precise control over processing conditions, allowing for a gentler and more consistent homogenization process.
 
-![NanoGenizer high-pressure homogenizer equipped with a thermal jacket for temperature control](https://jennifergenizer.wordpress.com/wp-content/uploads/2023/05/4.jpg))
+![NanoGenizer high-pressure homogenizer equipped with a thermal jacket for temperature control](https://jennifergenizer.wordpress.com/wp-content/uploads/2023/05/4.jpg)  
 NanoGenizer high-pressure homogenizer equipped with a thermal jacket for temperature control.
 
 When it comes to high-pressure homogenization, Genizer's high-pressure homogenizers are among the most reliable and efficient options in the market. With advanced technology and user-friendly designs, Genizer's homogenizers offer precise control over processing parameters, enabling efficient and gentle processing of various samples.
