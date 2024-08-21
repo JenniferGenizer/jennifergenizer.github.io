@@ -8,7 +8,6 @@ One of the most significant advantages of HPH over ultrasonication is its abilit
 
 Samples before and after homogenization using NanoGenizer microfluidic high-pressure homogenizers (left: before, right: after)
  
- 
 ### Scalability and Energy Efficiency
 
 Another advantage of HPH over ultrasonication is its scalability and energy efficiency. HPH systems can process larger volumes of material, making it a more efficient and cost-effective option for industrial-scale processing. Additionally, HPH is a more energy-efficient process than ultrasonication, which can result in significant cost savings over time.
