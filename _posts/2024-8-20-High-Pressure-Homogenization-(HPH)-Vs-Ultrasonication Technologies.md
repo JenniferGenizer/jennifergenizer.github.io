@@ -12,8 +12,7 @@ Samples before and after homogenization using NanoGenizer microfluidic high-pres
 ### Scalability and Energy Efficiency
 
 Another advantage of HPH over ultrasonication is its scalability and energy efficiency. HPH systems can process larger volumes of material, making it a more efficient and cost-effective option for industrial-scale processing. Additionally, HPH is a more energy-efficient process than ultrasonication, which can result in significant cost savings over time.
-![Genizer Multi-slot Y-type and Z-type microfluidic diamond interaction chambers of High Pressure Homogenizer](https://www.genizer.com/u_file/2208/photo/bcef402d7f.png)
-
+![Genizer Multi-slot Y-type and Z-type microfluidic diamond interaction chambers of High Pressure Homogenizer](https://www.genizer.com/u_file/2208/photo/bcef402d7f.png)  
 Multi-slot Y-type and Z-type microfluidic diamond interaction chambers
  
 ### Gentler Processing Conditions
