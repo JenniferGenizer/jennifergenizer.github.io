@@ -1,6 +1,6 @@
 # High-Pressure Homogenization (HPH) vs. UltraSonication: Which is Better for Your Liquid Formulation
 
-Homogenization is a critical step in various industrial processes, including pharmaceuticals, food, and cosmetics. High-pressure homogenization (HPH) and Ultrasonication are two commonly used homogenization techniques. However, HPH offers several distinct advantages over  ultrasonication.
+Homogenization is a critical step in various industrial processes, including pharmaceuticals, food, and cosmetics. High-pressure homogenization (HPH) and Ultrasonication are two commonly used homogenization techniques. However, HPH offers several distinct advantages over ultrasonication.
 
 ### Smaller Particle Sizes
 
