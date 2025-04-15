@@ -3,7 +3,7 @@
 
 ## 1. Overview
 
-High pressure homogenizers, such as NanoGenizer, prepare nanomaterial by producing high flow velocity through a small orifice, using a specially designed internal fixed geometry under ultra-high pressure (up to 60,000 psi). During the homogenization process, changes in physical, chemical, structural properties occur, and as a result, homogeneous suspension takes place at nanoscale. The pressure of a conventional homogenizer is within 15,000 psi, while a high pressure homogenizer can achieve 30,000 psi, and an ultra-high pressure homogenizer can reach up to 60,000 psi.
+High pressure homogenizers, such as NanoGenizer, prepare nanomaterial by producing high flow velocity through a small orifice, using a specially designed internal fixed geometry under ultra-high pressure (up to 60,000 psi). During the homogenization process, changes in physical, chemical, structural properties occur, and as a result, homogeneous suspension takes place at nanoscale. The pressure of a conventional homogenizer is within 15,000 psi, while a high pressure homogenizer can achieve 30,000 psi, and an ultra-high pressure homogenizer can reach up to 60,000 psi
 
 [![Genizer Microfluidic High Pressure Homogenizers](https://www.genizer.com/u_file/2202/photo/affa0242eb.jpg)](https://www.genizer.com/c/high-pressure-homogenizer_0360)  
 NanoGenizer Microfluidic High Pressure Homogenizer
